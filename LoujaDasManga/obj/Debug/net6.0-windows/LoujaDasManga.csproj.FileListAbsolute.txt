@@ -1,0 +1,60 @@
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.AssemblyReference.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.Cadastro.resources
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.Login.resources
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.MenuCliente.resources
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.Properties.Resources.resources
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.GenerateResource.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.AssemblyInfoInputs.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.AssemblyInfo.cs
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.exe
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.deps.json
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.runtimeconfig.json
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.pdb
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.CopyComplete
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\refint\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.pdb
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.genruntimeconfig.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2022\projects\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\ref\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.exe
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.deps.json
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.runtimeconfig.json
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\LoujaDasManga.pdb
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.AssemblyReference.cache
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.MenuCliente.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.Properties.Resources.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.GenerateResource.cache
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.AssemblyInfoInputs.cache
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.AssemblyInfo.cs
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.csproj.CopyComplete
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\refint\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.pdb
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.genruntimeconfig.cache
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\ref\LoujaDasManga.dll
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.Cliente_Fornecedor.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.LoginCliente.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.LoginFornecedor.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.CadastroCliente.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.CadastroFornecedor.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.CatalogoCliente.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.CatalogoFornecedor.resources
+C:\Users\thiago.fscanabarro\source\repos\LoujaDasManga\LoujaDasManga\obj\Debug\net6.0-windows\LoujaDasManga.MenuFornecedor.resources
